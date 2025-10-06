@@ -15,13 +15,7 @@ It integrates the [Gitleaks](https://github.com/gitleaks/gitleaks) CLI directly 
 
 ## 🧱 Installation
 
-### Option 1: From Eclipse Marketplace (if published)
-1. Open Eclipse → Help → Eclipse Marketplace...  
-2. Search for “Gitleaks Detector”.  
-3. Click Install and follow the prompts.  
-4. Restart Eclipse.
-
-### Option 2: From local update site (if distributing manually)
+### Option 1: From local update site (if distributing manually)
 1. Go to Help → Install New Software...  
 2. Click Add..., then:
    - **Name:** Gitleaks Detector  
@@ -29,7 +23,7 @@ It integrates the [Gitleaks](https://github.com/gitleaks/gitleaks) CLI directly 
 3. Select *Gitleaks Detector Plugin*, click Next, and finish installation.  
 4. Restart Eclipse.
 
-### Option 3: Drop-in installation (from this repository)
+### Option 2: Drop-in installation (from this repository)
 If you have the compiled plugin JAR (for testing or internal use):
 
 1. **Locate your Eclipse installation folder.**  
