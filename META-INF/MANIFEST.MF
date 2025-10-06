@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Automatic-Module-Name: com.aikido.gitleaksdetectorplugin
+Bundle-Name: Gitleaks Detector Plugin
+Bundle-SymbolicName: com.aikido.gitleaksdetectorplugin;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: com.aikido.gitleaksdetectorplugin.Activator
+Bundle-Vendor: Aikido
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.core.resources,
+ org.eclipse.ui,
+ org.eclipse.ui.workbench,
+ com.google.gson
+Bundle-ClassPath: ., lib/gson-2.10.1.jar
