@@ -5,6 +5,8 @@ It integrates the [Gitleaks](https://github.com/gitleaks/gitleaks) CLI directly 
 
 ---
 
+![Demo](./demo_asset.gif)
+
 ## 🚀 Features
 - Automatic scanning: Runs Gitleaks every time you save a file.  
 - Instant feedback: Displays a popup if potential secrets are detected.  
